@@ -1,0 +1,21 @@
+.kepala {
+    display: flex;
+    gap: 10px 100px;
+    justify-content:space-around ;
+}
+.kaki{
+    display: flex;
+    gap: 10px 100px;
+    justify-content:space-around ;
+}
+
+body {
+    max-width: 1000px; 
+    margin: auto; 
+    background-color: rgba(159, 187, 207, 0.8);
+}
+
+#lol {
+    margin-top: auto;
+    border-bottom: 5px solid black;
+}
