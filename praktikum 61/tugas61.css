@@ -1,0 +1,40 @@
+#container {
+    display: flex;
+    max-width: 2500px;
+    flex-wrap: wrap;
+    justify-content: center;
+    top: 160px;
+    align-content: center;
+}
+
+#container2 {
+    display: flex;
+    max-width: 2500;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+      
+img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+    object-position: top;
+    padding: 5px;
+}
+
+.lmao {
+     width: 118px;
+    height: 60px;
+    object-fit: cover;
+    object-position: top;
+    padding: 5px;
+
+}
+
+.bravo {
+    object-position: center;
+}
+
+
+
